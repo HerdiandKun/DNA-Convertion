@@ -102,7 +102,9 @@ section .data
  timeval:
 		tv_sec dd 0
 		tv_usec dd 0
-	
+
+
+
 section .bss
 	 input resb MAX
 	 konfirm resb 1
